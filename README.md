@@ -25,8 +25,8 @@ Display the output.
 
 ## PROGRAM:
 ```
-Developed By:A.Lahari
-Register No: 212223230111
+Developed By:Chandana Yendluri
+Register No: 23011258
 
 def copy(filename,newfile):
     with open(filename,'r') as fp:
